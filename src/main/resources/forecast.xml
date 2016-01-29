@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weatherdata>
+    <location>
+        <name>Whitby</name>
+        <type />
+        <country>GB</country>
+        <timezone />
+        <location altitude="0" latitude="54.48774" longitude="-0.61498" geobase="geonames" geobaseid="0" />
+    </location>
+    <credit />
+    <meta>
+        <lastupdate />
+        <calctime>0.0095</calctime>
+        <nextupdate />
+    </meta>
+    <sun rise="2016-01-28T07:58:20" set="2016-01-28T16:33:05" />
+    <forecast>
+        <time from="2016-01-28T09:00:00" to="2016-01-28T12:00:00">
+            <symbol number="802" name="scattered clouds" var="03d" />
+            <precipitation />
+            <windDirection deg="229.5" code="SW" name="Southwest" />
+            <windSpeed mps="12.56" name="Strong breeze" />
+            <temperature unit="celsius" value="6.28" min="6.28" max="7.91" />
+            <pressure unit="hPa" value="1024.24" />
+            <humidity value="99" unit="%" />
+            <clouds value="scattered clouds" all="44" unit="%" />
+        </time>
+        <time from="2016-01-28T12:00:00" to="2016-01-28T15:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.005" type="rain" />
+            <windDirection deg="229.502" code="SW" name="Southwest" />
+            <windSpeed mps="13.11" name="Strong breeze" />
+            <temperature unit="celsius" value="7.21" min="7.21" max="8.76" />
+            <pressure unit="hPa" value="1022.12" />
+            <humidity value="94" unit="%" />
+            <clouds value="broken clouds" all="68" unit="%" />
+        </time>
+        <time from="2016-01-28T15:00:00" to="2016-01-28T18:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.015" type="rain" />
+            <windDirection deg="220.002" code="SW" name="Southwest" />
+            <windSpeed mps="14.51" name="High wind, near gale" />
+            <temperature unit="celsius" value="7.4" min="7.4" max="8.85" />
+            <pressure unit="hPa" value="1019.37" />
+            <humidity value="93" unit="%" />
+            <clouds value="broken clouds" all="76" unit="%" />
+        </time>
+        <time from="2016-01-28T18:00:00" to="2016-01-28T21:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.335" type="rain" />
+            <windDirection deg="235.515" code="SW" name="Southwest" />
+            <windSpeed mps="13.66" name="Strong breeze" />
+            <temperature unit="celsius" value="7.88" min="7.88" max="9.24" />
+            <pressure unit="hPa" value="1017.55" />
+            <humidity value="92" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-28T21:00:00" to="2016-01-29T00:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.1" type="rain" />
+            <windDirection deg="245.003" code="WSW" name="West-southwest" />
+            <windSpeed mps="12.27" name="Strong breeze" />
+            <temperature unit="celsius" value="8.81" min="8.81" max="10.08" />
+            <pressure unit="hPa" value="1017.13" />
+            <humidity value="88" unit="%" />
+            <clouds value="broken clouds" all="68" unit="%" />
+        </time>
+        <time from="2016-01-29T00:00:00" to="2016-01-29T03:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.205" type="rain" />
+            <windDirection deg="239" code="WSW" name="West-southwest" />
+            <windSpeed mps="13.46" name="Strong breeze" />
+            <temperature unit="celsius" value="9.32" min="9.32" max="10.49" />
+            <pressure unit="hPa" value="1015.23" />
+            <humidity value="85" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-29T03:00:00" to="2016-01-29T06:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.045" type="rain" />
+            <windDirection deg="234.001" code="SW" name="Southwest" />
+            <windSpeed mps="15.51" name="High wind, near gale" />
+            <temperature unit="celsius" value="9.49" min="9.49" max="10.58" />
+            <pressure unit="hPa" value="1012.95" />
+            <humidity value="83" unit="%" />
+            <clouds value="overcast clouds" all="88" unit="%" />
+        </time>
+        <time from="2016-01-29T06:00:00" to="2016-01-29T09:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.005" type="rain" />
+            <windDirection deg="236.502" code="WSW" name="West-southwest" />
+            <windSpeed mps="18.71" name="Gale" />
+            <temperature unit="celsius" value="9.38" min="9.38" max="10.38" />
+            <pressure unit="hPa" value="1011.15" />
+            <humidity value="86" unit="%" />
+            <clouds value="scattered clouds" all="36" unit="%" />
+        </time>
+        <time from="2016-01-29T09:00:00" to="2016-01-29T12:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.07" type="rain" />
+            <windDirection deg="240.001" code="WSW" name="West-southwest" />
+            <windSpeed mps="18.76" name="Gale" />
+            <temperature unit="celsius" value="10.08" min="10.08" max="10.99" />
+            <pressure unit="hPa" value="1010.58" />
+            <humidity value="82" unit="%" />
+            <clouds value="few clouds" all="24" unit="%" />
+        </time>
+        <time from="2016-01-29T12:00:00" to="2016-01-29T15:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.06" type="rain" />
+            <windDirection deg="254.509" code="WSW" name="West-southwest" />
+            <windSpeed mps="17.26" name="Gale" />
+            <temperature unit="celsius" value="9.02" min="9.02" max="9.84" />
+            <pressure unit="hPa" value="1012.49" />
+            <humidity value="88" unit="%" />
+            <clouds value="clear sky" all="0" unit="%" />
+        </time>
+        <time from="2016-01-29T15:00:00" to="2016-01-29T18:00:00">
+            <symbol number="802" name="scattered clouds" var="03n" />
+            <precipitation />
+            <windDirection deg="251.502" code="WSW" name="West-southwest" />
+            <windSpeed mps="13.38" name="Strong breeze" />
+            <temperature unit="celsius" value="7.99" min="7.99" max="8.71" />
+            <pressure unit="hPa" value="1013.93" />
+            <humidity value="95" unit="%" />
+            <clouds value="scattered clouds" all="48" unit="%" />
+        </time>
+        <time from="2016-01-29T18:00:00" to="2016-01-29T21:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.01" type="rain" />
+            <windDirection deg="233.505" code="SW" name="Southwest" />
+            <windSpeed mps="11.51" name="Strong breeze" />
+            <temperature unit="celsius" value="7.96" min="7.96" max="8.6" />
+            <pressure unit="hPa" value="1011.35" />
+            <humidity value="95" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-29T21:00:00" to="2016-01-30T00:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.21" type="rain" />
+            <windDirection deg="235.004" code="SW" name="Southwest" />
+            <windSpeed mps="11.56" name="Strong breeze" />
+            <temperature unit="celsius" value="7.71" min="7.71" max="8.25" />
+            <pressure unit="hPa" value="1008.3" />
+            <humidity value="98" unit="%" />
+            <clouds value="few clouds" all="24" unit="%" />
+        </time>
+        <time from="2016-01-30T00:00:00" to="2016-01-30T03:00:00">
+            <symbol number="803" name="broken clouds" var="04n" />
+            <precipitation />
+            <windDirection deg="250.508" code="WSW" name="West-southwest" />
+            <windSpeed mps="13.51" name="Strong breeze" />
+            <temperature unit="celsius" value="7.79" min="7.79" max="8.24" />
+            <pressure unit="hPa" value="1006.41" />
+            <humidity value="97" unit="%" />
+            <clouds value="broken clouds" all="56" unit="%" />
+        </time>
+        <time from="2016-01-30T03:00:00" to="2016-01-30T06:00:00">
+            <symbol number="801" name="few clouds" var="02n" />
+            <precipitation />
+            <windDirection deg="253.003" code="WSW" name="West-southwest" />
+            <windSpeed mps="15.1" name="High wind, near gale" />
+            <temperature unit="celsius" value="7" min="7" max="7.36" />
+            <pressure unit="hPa" value="1006.07" />
+            <humidity value="100" unit="%" />
+            <clouds value="few clouds" all="24" unit="%" />
+        </time>
+        <time from="2016-01-30T06:00:00" to="2016-01-30T09:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.01" type="rain" />
+            <windDirection deg="261.001" code="W" name="West" />
+            <windSpeed mps="16.61" name="High wind, near gale" />
+            <temperature unit="celsius" value="6.4" min="6.4" max="6.68" />
+            <pressure unit="hPa" value="1007.52" />
+            <humidity value="100" unit="%" />
+            <clouds value="clear sky" all="0" unit="%" />
+        </time>
+        <time from="2016-01-30T09:00:00" to="2016-01-30T12:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.02" type="rain" />
+            <windDirection deg="266.502" code="W" name="West" />
+            <windSpeed mps="18.71" name="Gale" />
+            <temperature unit="celsius" value="6.63" min="6.63" max="6.82" />
+            <pressure unit="hPa" value="1009.49" />
+            <humidity value="100" unit="%" />
+            <clouds value="broken clouds" all="68" unit="%" />
+        </time>
+        <time from="2016-01-30T12:00:00" to="2016-01-30T15:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.15" type="rain" />
+            <windDirection deg="261.002" code="W" name="West" />
+            <windSpeed mps="14.47" name="High wind, near gale" />
+            <temperature unit="celsius" value="7.11" min="7.11" max="7.2" />
+            <pressure unit="hPa" value="1010.79" />
+            <humidity value="100" unit="%" />
+            <clouds value="scattered clouds" all="32" unit="%" />
+        </time>
+        <time from="2016-01-30T15:00:00" to="2016-01-30T18:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.08" type="rain" />
+            <windDirection deg="268.501" code="W" name="West" />
+            <windSpeed mps="14.71" name="High wind, near gale" />
+            <temperature unit="celsius" value="7" min="7" max="7" />
+            <pressure unit="hPa" value="1013.64" />
+            <humidity value="100" unit="%" />
+            <clouds value="few clouds" all="20" unit="%" />
+        </time>
+        <time from="2016-01-30T18:00:00" to="2016-01-30T21:00:00">
+            <symbol number="800" name="sky is clear" var="02n" />
+            <precipitation />
+            <windDirection deg="266.002" code="W" name="West" />
+            <windSpeed mps="13.42" name="Strong breeze" />
+            <temperature unit="celsius" value="7.02" min="7.02" max="7.02" />
+            <pressure unit="hPa" value="1015.08" />
+            <humidity value="100" unit="%" />
+            <clouds value="clear sky" all="8" unit="%" />
+        </time>
+        <time from="2016-01-30T21:00:00" to="2016-01-31T00:00:00">
+            <symbol number="803" name="broken clouds" var="04n" />
+            <precipitation />
+            <windDirection deg="256.002" code="WSW" name="West-southwest" />
+            <windSpeed mps="11.31" name="Strong breeze" />
+            <temperature unit="celsius" value="7.05" min="7.05" max="7.05" />
+            <pressure unit="hPa" value="1015" />
+            <humidity value="100" unit="%" />
+            <clouds value="broken clouds" all="64" unit="%" />
+        </time>
+        <time from="2016-01-31T00:00:00" to="2016-01-31T03:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.33" type="rain" />
+            <windDirection deg="233.501" code="SW" name="Southwest" />
+            <windSpeed mps="8.51" name="Fresh Breeze" />
+            <temperature unit="celsius" value="6.82" min="6.82" max="6.82" />
+            <pressure unit="hPa" value="1013.55" />
+            <humidity value="100" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-31T03:00:00" to="2016-01-31T06:00:00">
+            <symbol number="501" name="moderate rain" var="10n" />
+            <precipitation unit="3h" value="3.92" type="rain" />
+            <windDirection deg="183.502" code="S" name="South" />
+            <windSpeed mps="6.57" name="Moderate breeze" />
+            <temperature unit="celsius" value="6.17" min="6.17" max="6.17" />
+            <pressure unit="hPa" value="1009.09" />
+            <humidity value="100" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-31T06:00:00" to="2016-01-31T09:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="1.47" type="rain" />
+            <windDirection deg="250.001" code="WSW" name="West-southwest" />
+            <windSpeed mps="8.12" name="Fresh Breeze" />
+            <temperature unit="celsius" value="9.25" min="9.25" max="9.25" />
+            <pressure unit="hPa" value="1006.25" />
+            <humidity value="92" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-31T09:00:00" to="2016-01-31T12:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.46" type="rain" />
+            <windDirection deg="252.501" code="WSW" name="West-southwest" />
+            <windSpeed mps="12.26" name="Strong breeze" />
+            <temperature unit="celsius" value="10.92" min="10.92" max="10.92" />
+            <pressure unit="hPa" value="1007.15" />
+            <humidity value="82" unit="%" />
+            <clouds value="overcast clouds" all="92" unit="%" />
+        </time>
+        <time from="2016-01-31T12:00:00" to="2016-01-31T15:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.07" type="rain" />
+            <windDirection deg="256.002" code="WSW" name="West-southwest" />
+            <windSpeed mps="12.2" name="Strong breeze" />
+            <temperature unit="celsius" value="11.14" min="11.14" max="11.14" />
+            <pressure unit="hPa" value="1008.13" />
+            <humidity value="82" unit="%" />
+            <clouds value="broken clouds" all="64" unit="%" />
+        </time>
+        <time from="2016-01-31T15:00:00" to="2016-01-31T18:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.05" type="rain" />
+            <windDirection deg="251.006" code="WSW" name="West-southwest" />
+            <windSpeed mps="12.46" name="Strong breeze" />
+            <temperature unit="celsius" value="10.97" min="10.97" max="10.97" />
+            <pressure unit="hPa" value="1009.3" />
+            <humidity value="83" unit="%" />
+            <clouds value="scattered clouds" all="32" unit="%" />
+        </time>
+        <time from="2016-01-31T18:00:00" to="2016-01-31T21:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.01" type="rain" />
+            <windDirection deg="243.004" code="WSW" name="West-southwest" />
+            <windSpeed mps="14.77" name="High wind, near gale" />
+            <temperature unit="celsius" value="11.03" min="11.03" max="11.03" />
+            <pressure unit="hPa" value="1008.27" />
+            <humidity value="83" unit="%" />
+            <clouds value="scattered clouds" all="32" unit="%" />
+        </time>
+        <time from="2016-01-31T21:00:00" to="2016-02-01T00:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.01" type="rain" />
+            <windDirection deg="240.002" code="WSW" name="West-southwest" />
+            <windSpeed mps="17.26" name="Gale" />
+            <temperature unit="celsius" value="10.85" min="10.85" max="10.85" />
+            <pressure unit="hPa" value="1006.8" />
+            <humidity value="84" unit="%" />
+            <clouds value="few clouds" all="20" unit="%" />
+        </time>
+        <time from="2016-02-01T00:00:00" to="2016-02-01T03:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.02" type="rain" />
+            <windDirection deg="250.501" code="WSW" name="West-southwest" />
+            <windSpeed mps="18.22" name="Gale" />
+            <temperature unit="celsius" value="10.32" min="10.32" max="10.32" />
+            <pressure unit="hPa" value="1007.18" />
+            <humidity value="85" unit="%" />
+            <clouds value="clear sky" all="0" unit="%" />
+        </time>
+        <time from="2016-02-01T03:00:00" to="2016-02-01T06:00:00">
+            <symbol number="500" name="light rain" var="10n" />
+            <precipitation unit="3h" value="0.01" type="rain" />
+            <windDirection deg="253.505" code="WSW" name="West-southwest" />
+            <windSpeed mps="17.77" name="Gale" />
+            <temperature unit="celsius" value="9.35" min="9.35" max="9.35" />
+            <pressure unit="hPa" value="1007.75" />
+            <humidity value="90" unit="%" />
+            <clouds value="few clouds" all="12" unit="%" />
+        </time>
+        <time from="2016-02-01T06:00:00" to="2016-02-01T09:00:00">
+            <symbol number="500" name="light rain" var="10d" />
+            <precipitation unit="3h" value="0.02" type="rain" />
+            <windDirection deg="252.005" code="WSW" name="West-southwest" />
+            <windSpeed mps="18.32" name="Gale" />
+            <temperature unit="celsius" value="8.7" min="8.7" max="8.7" />
+            <pressure unit="hPa" value="1008.44" />
+            <humidity value="96" unit="%" />
+            <clouds value="few clouds" all="12" unit="%" />
+        </time>
+        <time from="2016-02-01T09:00:00" to="2016-02-01T12:00:00">
+            <symbol number="801" name="few clouds" var="02d" />
+            <precipitation />
+            <windDirection deg="253.501" code="WSW" name="West-southwest" />
+            <windSpeed mps="20.02" name="Gale" />
+            <temperature unit="celsius" value="8.02" min="8.02" max="8.02" />
+            <pressure unit="hPa" value="1009.46" />
+            <humidity value="99" unit="%" />
+            <clouds value="few clouds" all="12" unit="%" />
+        </time>
+        <time from="2016-02-01T12:00:00" to="2016-02-01T15:00:00">
+            <symbol number="800" name="sky is clear" var="01d" />
+            <precipitation />
+            <windDirection deg="257.5" code="WSW" name="West-southwest" />
+            <windSpeed mps="22.37" name="Severe Gale" />
+            <temperature unit="celsius" value="8.19" min="8.19" max="8.19" />
+            <pressure unit="hPa" value="1008.81" />
+            <humidity value="97" unit="%" />
+            <clouds value="clear sky" all="0" unit="%" />
+        </time>
+        <time from="2016-02-01T15:00:00" to="2016-02-01T18:00:00">
+            <symbol number="800" name="sky is clear" var="02n" />
+            <precipitation />
+            <windDirection deg="265" code="W" name="West" />
+            <windSpeed mps="20.06" name="Gale" />
+            <temperature unit="celsius" value="8.29" min="8.29" max="8.29" />
+            <pressure unit="hPa" value="1011.37" />
+            <humidity value="96" unit="%" />
+            <clouds value="clear sky" all="8" unit="%" />
+        </time>
+        <time from="2016-02-01T18:00:00" to="2016-02-01T21:00:00">
+            <symbol number="800" name="sky is clear" var="01n" />
+            <precipitation />
+            <windDirection deg="269.501" code="W" name="West" />
+            <windSpeed mps="16.92" name="High wind, near gale" />
+            <temperature unit="celsius" value="8.22" min="8.22" max="8.22" />
+            <pressure unit="hPa" value="1015.18" />
+            <humidity value="96" unit="%" />
+            <clouds value="clear sky" all="0" unit="%" />
+        </time>
+        <time from="2016-02-01T21:00:00" to="2016-02-02T00:00:00">
+            <symbol number="800" name="sky is clear" var="01n" />
+            <precipitation />
+            <windDirection deg="268.5" code="W" name="West" />
+            <windSpeed mps="14.01" name="High wind, near gale" />
+            <temperature unit="celsius" value="7.6" min="7.6" max="7.6" />
+            <pressure unit="hPa" value="1018.81" />
+            <humidity value="100" unit="%" />
+            <clouds value="clear sky" all="0" unit="%" />
+        </time>
+    </forecast>
+</weatherdata>
