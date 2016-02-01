@@ -1,0 +1,348 @@
+[
+  {
+    "sha": "7a9fe3a0323f34b21d7b0ad13e1d7a1457aaea42",
+    "commit": {
+      "author": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-29T06:23:38Z"
+      },
+      "committer": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-29T06:23:38Z"
+      },
+      "message": "Ch6 complete",
+      "tree": {
+        "sha": "29404cb7098548af5cd2d1a85a4b9cee702ce240",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/trees/29404cb7098548af5cd2d1a85a4b9cee702ce240"
+      },
+      "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/commits/7a9fe3a0323f34b21d7b0ad13e1d7a1457aaea42",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/7a9fe3a0323f34b21d7b0ad13e1d7a1457aaea42",
+    "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/7a9fe3a0323f34b21d7b0ad13e1d7a1457aaea42",
+    "comments_url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/7a9fe3a0323f34b21d7b0ad13e1d7a1457aaea42/comments",
+    "author": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9322fd85db44935121f84ca718c5b920cfb7b6c1",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/9322fd85db44935121f84ca718c5b920cfb7b6c1",
+        "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/9322fd85db44935121f84ca718c5b920cfb7b6c1"
+      }
+    ]
+  },
+  {
+    "sha": "9322fd85db44935121f84ca718c5b920cfb7b6c1",
+    "commit": {
+      "author": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-28T09:47:35Z"
+      },
+      "committer": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-28T10:03:59Z"
+      },
+      "message": "Ch6 WIP",
+      "tree": {
+        "sha": "bb3824c47070b0871c126b4bd20d93e6eb9f9d10",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/trees/bb3824c47070b0871c126b4bd20d93e6eb9f9d10"
+      },
+      "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/commits/9322fd85db44935121f84ca718c5b920cfb7b6c1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/9322fd85db44935121f84ca718c5b920cfb7b6c1",
+    "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/9322fd85db44935121f84ca718c5b920cfb7b6c1",
+    "comments_url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/9322fd85db44935121f84ca718c5b920cfb7b6c1/comments",
+    "author": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a25e7be080405e4984f8575f5cdd9a94fc248096",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/a25e7be080405e4984f8575f5cdd9a94fc248096",
+        "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/a25e7be080405e4984f8575f5cdd9a94fc248096"
+      }
+    ]
+  },
+  {
+    "sha": "a25e7be080405e4984f8575f5cdd9a94fc248096",
+    "commit": {
+      "author": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-26T09:17:50Z"
+      },
+      "committer": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-26T09:17:50Z"
+      },
+      "message": "Ch 6 WIP",
+      "tree": {
+        "sha": "3d4e777626604d84c388c2f932bf71af965f4440",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/trees/3d4e777626604d84c388c2f932bf71af965f4440"
+      },
+      "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/commits/a25e7be080405e4984f8575f5cdd9a94fc248096",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/a25e7be080405e4984f8575f5cdd9a94fc248096",
+    "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/a25e7be080405e4984f8575f5cdd9a94fc248096",
+    "comments_url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/a25e7be080405e4984f8575f5cdd9a94fc248096/comments",
+    "author": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "24845aef5996fb5ea5bb0bdcb71172eb7396350b",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/24845aef5996fb5ea5bb0bdcb71172eb7396350b",
+        "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/24845aef5996fb5ea5bb0bdcb71172eb7396350b"
+      }
+    ]
+  },
+  {
+    "sha": "24845aef5996fb5ea5bb0bdcb71172eb7396350b",
+    "commit": {
+      "author": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-25T09:31:45Z"
+      },
+      "committer": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-25T09:31:45Z"
+      },
+      "message": "WIP",
+      "tree": {
+        "sha": "7a16592e412bbf3668f3dbe301249a4dbfdd86ac",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/trees/7a16592e412bbf3668f3dbe301249a4dbfdd86ac"
+      },
+      "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/commits/24845aef5996fb5ea5bb0bdcb71172eb7396350b",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/24845aef5996fb5ea5bb0bdcb71172eb7396350b",
+    "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/24845aef5996fb5ea5bb0bdcb71172eb7396350b",
+    "comments_url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/24845aef5996fb5ea5bb0bdcb71172eb7396350b/comments",
+    "author": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a5c62350c3a8b92324f3cb8b3813682ed21bc9b7",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/a5c62350c3a8b92324f3cb8b3813682ed21bc9b7",
+        "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/a5c62350c3a8b92324f3cb8b3813682ed21bc9b7"
+      }
+    ]
+  },
+  {
+    "sha": "a5c62350c3a8b92324f3cb8b3813682ed21bc9b7",
+    "commit": {
+      "author": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-25T06:02:40Z"
+      },
+      "committer": {
+        "name": "Abhijit Sarkar",
+        "email": "sarkar.abhijit@outlook.com",
+        "date": "2016-01-25T06:02:40Z"
+      },
+      "message": "Init",
+      "tree": {
+        "sha": "c3c3de58d9287969bcd56186888223258e91d6db",
+        "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/trees/c3c3de58d9287969bcd56186888223258e91d6db"
+      },
+      "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/git/commits/a5c62350c3a8b92324f3cb8b3813682ed21bc9b7",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/a5c62350c3a8b92324f3cb8b3813682ed21bc9b7",
+    "html_url": "https://github.com/abhijitsarkar/learning-scala/commit/a5c62350c3a8b92324f3cb8b3813682ed21bc9b7",
+    "comments_url": "https://api.github.com/repos/abhijitsarkar/learning-scala/commits/a5c62350c3a8b92324f3cb8b3813682ed21bc9b7/comments",
+    "author": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "abhijitsarkar",
+      "id": 1302775,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1302775?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abhijitsarkar",
+      "html_url": "https://github.com/abhijitsarkar",
+      "followers_url": "https://api.github.com/users/abhijitsarkar/followers",
+      "following_url": "https://api.github.com/users/abhijitsarkar/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abhijitsarkar/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abhijitsarkar/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abhijitsarkar/subscriptions",
+      "organizations_url": "https://api.github.com/users/abhijitsarkar/orgs",
+      "repos_url": "https://api.github.com/users/abhijitsarkar/repos",
+      "events_url": "https://api.github.com/users/abhijitsarkar/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abhijitsarkar/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]

@@ -9,6 +9,7 @@ lazy val root = (project in file(".")).
   settings(
     name := "learning-scala",
     libraryDependencies ++= Seq(
+      "io.spray" % "spray-json_2.11" % "1.3.2",
       "org.scalatest" % "scalatest_2.11" % "2.2.6" % "test"
     ),
     scalacOptions ++= Seq("-unchecked", "-deprecation")

@@ -80,9 +80,6 @@ object OpenWeatherMapStubClient {
 
   /**
     * Q7.g: What are the high and low temperatures over the next 24 hours?
-    *
-    * Q7.h: What is the average temperature in this weather forecast?
-    * You can use the "value" attribute in the temperature element to calculate this value.
     */
   def temp(n: Int = 24) = readFromFile
     .filter(_.contains("temperature unit"))
